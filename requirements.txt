@@ -1,0 +1,3 @@
+python-telegram-bot[webhooks]==21.0
+yt-dlp[default]>=2025.5.22
+requests
